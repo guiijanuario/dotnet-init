@@ -7,13 +7,13 @@ class Exercicio4
         Console.WriteLine("[---------------------------------------------------]");
 
         Console.WriteLine("Insira quantos kilos você pescou hoje: ");
-        double anos = Convert.ToInt32(Console.ReadLine());
+        int anos = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Insira quantos kilos você pescou hoje: ");
-        double meses = Convert.ToInt32(Console.ReadLine());
+        int meses = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Insira quantos kilos você pescou hoje: ");
-        double dias = Convert.ToInt32(Console.ReadLine());
+        int dias = Convert.ToInt32(Console.ReadLine());
 
        
         int idadeTotal = 2023 - anos - 1;
