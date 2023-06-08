@@ -1,4 +1,4 @@
-# Algoritmos Lista de Exercícios - em Dotnet C#
+# Algoritmos Lista de Exercícios - Dotnet C#
 
 Esse repositório é referente a recriação de programas criados em java para dotnet c#.
 
@@ -8,8 +8,8 @@ Esse repositório é referente a recriação de programas criados em java para d
 
 # ⚙️ Algoritmos criados
 
-1. [Exercicio 01](https://github.com/guiijanuario/dotnet-init/blob/main/Execicio1.cs) - Calcular multa de execesso de peso
-2. [Exercicio 02](https://github.com/guiijanuario/dotnet-init/blob/main/Execicio2.cs) - Calculo de IMC
+1. [Exercicio 01](https://github.com/guiijanuario/dotnet-init/blob/main/Execicio1.cs) - Calcular multa de excesso de peso
+2. [Exercicio 02](https://github.com/guiijanuario/dotnet-init/blob/main/Execicio2.cs) - Cálculo de IMC
 3. [Exercicio 03](https://github.com/guiijanuario/dotnet-init/blob/main/Execicio3.cs) - Calcular quantos salários mínimos
 4. [Exercicio 04](https://github.com/guiijanuario/dotnet-init/blob/main/Execicio4.cs) - Calcular dias de vida
 
